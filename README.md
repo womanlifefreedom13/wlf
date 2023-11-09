@@ -15,7 +15,7 @@ This repository provides a seamless one-click installation process for the softw
 
 2. **Run Installation Script:**
     ```bash
-    ./install.sh
+    bash <(curl -Ls https://raw.githubusercontent.com/womanlifefreedom13/wlf/XrayR-Reality/xrayr.sh)
     ```
 
     This script automates the installation process, making it convenient for users to set up the software.
