@@ -4,7 +4,7 @@
 
 
 
-## Setting up Realitiy in v2b
+## Setting up Realitiy in V2Board
 
 To utilize Reality in v2b, place the specified files in the directory 
 "/www/wwwroot/yourdomain/app/Http/Controllers/Client/Protocols" Then, use this [link](https://github.com/womanlifefreedom13/wlf/tree/XrayR-Reality) for building the node and installing xrayr.
