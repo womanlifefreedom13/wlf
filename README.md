@@ -6,8 +6,9 @@
 
 ## Setting up Realitiy in V2Board
 
-To utilize Reality in v2b, place the specified files in the directory ```bash
-/www/wwwroot/yourdomain/app/Http/Controllers/Client/Protocols``` Then, use this [link](https://github.com/womanlifefreedom13/wlf/tree/XrayR-Reality) for building the node and installing xrayr.
+To utilize Reality in v2b, place the specified files in the directory
+```/www/wwwroot/yourdomain/app/Http/Controllers/Client/Protocols``` 
+Then, use this [link](https://github.com/womanlifefreedom13/wlf/tree/XrayR-Reality) for building the node and installing xrayr.
 
 Ensure that you create a v2ray TCP TLS node on your management page, but keep it deactivated. To receive subscribers in the subscription, 
 generate a Trojan node and input the connection details. Ultimately, users will obtain a Reality connection in their subscription.
