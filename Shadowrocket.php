@@ -121,7 +121,7 @@ class Shadowrocket
             'sni' => $server['server_name']
         
         ]);
-        $uri = "vless://{$password}@{$server['host']}:{$server['port']}?encryption=none&flow=xtls-rprx-vision&security=reality&sni={$sni}&fp=randomized&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2&type=tcp&headerType=none#{$name}";
+        $uri = "vless://{$password}@{$server['host']}:{$server['port']}?encryption=none&flow=xtls-rprx-vision&security=reality&sni={$sni}&fp=randomized&pbk=[changeit]&sid=[changeit]&type=tcp&headerType=none#{$name}";
         $uri .= "\r\n";
         return $uri;
     }
