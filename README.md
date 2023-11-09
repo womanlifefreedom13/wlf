@@ -1,36 +1,35 @@
-###https://t.me/womanlifefreedom13
+## Software Installation
+One-Click Installation
 
+### Introduction
 
+This repository provides a seamless one-click installation process for the software. Follow the instructions below to easily install and set up the required components.
 
+### Instructions
 
+1. **Clone Repository:**
+    ```bash
+    git clone [repository-url]
+    cd [repository-directory]
+    ```
 
-## Setting up Realitiy in v2b
+2. **Run Installation Script:**
+    ```bash
+    ./install.sh
+    ```
 
-To utilize Reality in v2b, place the specified files in the directory 
-"/www/wwwroot/yourdomain/app/Http/Controllers/Client/Protocols" Then, use this link for building the node and installing xrayr.
+    This script automates the installation process, making it convenient for users to set up the software.
 
-Ensure that you create a v2ray TCP TLS node on your management page, but keep it deactivated. To receive subscribers in the subscription, 
-generate a Trojan node and input the connection details. Ultimately, users will obtain a Reality connection in their subscription.
+3. **Configuration:**
+    Modify any necessary configuration files or settings according to your requirements.
 
-### Files Placement:
+4. **Start Using:**
+    Once the installation is complete, you are ready to start using the software.
 
-- Shadowrocket.php
-- V2rayN.php
-- V2rayNG.php
+### Notes
 
-### Building Node and Installing xrayr:
+- Ensure that your system meets the minimum requirements before running the installation.
+- For detailed information or troubleshooting, refer to the documentation or contact support.
 
-Follow the instructions provided in this link to build the node and install xrayr.
-
-### Creating v2ray TCP TLS Node:
-
-Establish a v2ray TCP TLS node on your management page, ensuring it remains deactivated.
-
-### Creating Trojan Node for Subscribers:
-
-Generate a Trojan node for subscribers and input the connection details.
-
-### Final Step - Reality Connection:
-
-Subscribers will receive Reality connection details in their subscription.
+Feel free to contribute, report issues, or provide feedback!
 
