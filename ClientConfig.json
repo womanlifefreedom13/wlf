@@ -1,8 +1,8 @@
 {
-	"id": "674b12a3-b360-41e7-90ac-273995ede422",
-	"host": "aws.freedns.click",
-	"port": "2096",
-	"path": "snapp.ir",
-	"serverName": "aws.freedns.click",
+	"id": "7596471f-8135-423c-838c-1bc394ef695e",
+	"host": "yalda20232112.freedns.site",
+	"port": "443",
+	"path": "wlfFreeVPN",
+	"serverName": "yalda20232112.freedns.site",
 	"subnetsList": "https://raw.githubusercontent.com/womanlifefreedom13/womanlifefreedom13/main/cf.local.iplistch"
 }
