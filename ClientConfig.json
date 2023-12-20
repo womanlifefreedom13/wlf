@@ -1,8 +1,8 @@
 {
 	"id": "7596471f-8135-423c-838c-1bc394ef695e",
-	"host": "84.32.230.225",
+	"host": "yalda20232112.freedns.site",
 	"port": "443",
 	"path": "wlfFreeVPN",
-	"serverName": "84.32.230.225",
+	"serverName": "yalda20232112.freedns.site",
 	"subnetsList": "https://raw.githubusercontent.com/womanlifefreedom13/wlf/XrayR-Reality/LISTCH.iplistch"
 }
