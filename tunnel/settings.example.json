@@ -1,0 +1,23 @@
+{
+  "_comment": "Copy this file to settings.json and fill in your values.",
+
+  "livekit_url": "wss://meet.bale.ai",
+  "room_name": "tunnel-abc123",
+
+  "token_mode": "preset",
+
+  "entry_token": "eyJhbGciOiJIUzI1NiJ9.ENTRY_TOKEN_HERE",
+  "exit_token":  "eyJhbGciOiJIUzI1NiJ9.EXIT_TOKEN_HERE",
+
+  "socks_host": "127.0.0.1",
+  "socks_port": 1080,
+
+  "log_level": "INFO",
+
+  "_selfhost_comment": "For self-hosted LiveKit set token_mode=selfhost and add:",
+  "api_key": "",
+  "api_secret": "",
+
+  "_remote_config_comment": "To fetch this file from GitHub, pass the raw URL as --config instead of a local path.",
+  "config_url": ""
+}
