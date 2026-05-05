@@ -2,8 +2,16 @@
   "version": 1,
   "general": {
     "group1": [
-      {"url": "code1", "current_count": 0, "max_count": 20},
-      {"url": "code2", "current_count": 0, "max_count": 20}
+      {
+        "url": "code2",
+        "current_count": 0,
+        "max_count": 20
+      },
+      {
+        "url": "bf5o-vsvlo-6vnb",
+        "current_count": 0,
+        "max_count": 20
+      }
     ]
   }
 }
